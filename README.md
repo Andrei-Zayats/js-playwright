@@ -1,4 +1,4 @@
-#Playwright with JavaScript
+# Playwright with JavaScript
 
 ## UI tests
 Repository on [github](https://github.com/Andrei-Zayats/js-playwright)
