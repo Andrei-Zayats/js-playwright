@@ -15,9 +15,9 @@ npm install
 ```
 Run tests in headless mode:
 ```bash
-npm test
+npm run test
 ```
 Open tests in the Cypress Launchpad:
 ```bash
-npm test:dev
+npm run test:dev
 ```
